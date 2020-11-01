@@ -1,0 +1,22 @@
+2020-11-01 20:50:12,779 - DEBUG - Start of program
+2020-11-01 20:50:15,197 - DEBUG - value of first integer(5)
+2020-11-01 20:50:17,041 - DEBUG - value of second integer(9)
+2020-11-01 20:50:17,041 - DEBUG - i is 5, total is 5
+2020-11-01 20:50:17,042 - DEBUG - i is 6, total is 11
+2020-11-01 20:50:17,042 - DEBUG - i is 7, total is 18
+2020-11-01 20:50:17,042 - DEBUG - i is 8, total is 26
+2020-11-01 20:50:17,043 - DEBUG - i is 9, total is 35
+2020-11-01 20:50:17,043 - DEBUG - n1 is 5, n2 is 9, sum is 35
+2020-11-01 20:51:20,337 - DEBUG - Start of program
+2020-11-01 20:51:23,294 - DEBUG - value of first integer = 2
+2020-11-01 20:51:25,468 - DEBUG - value of second integer = 10
+2020-11-01 20:51:25,468 - DEBUG - i is 2, total is 2
+2020-11-01 20:51:25,469 - DEBUG - i is 3, total is 5
+2020-11-01 20:51:25,469 - DEBUG - i is 4, total is 9
+2020-11-01 20:51:25,470 - DEBUG - i is 5, total is 14
+2020-11-01 20:51:25,470 - DEBUG - i is 6, total is 20
+2020-11-01 20:51:25,471 - DEBUG - i is 7, total is 27
+2020-11-01 20:51:25,471 - DEBUG - i is 8, total is 35
+2020-11-01 20:51:25,471 - DEBUG - i is 9, total is 44
+2020-11-01 20:51:25,472 - DEBUG - i is 10, total is 54
+2020-11-01 20:51:25,472 - DEBUG - n1 is 2, n2 is 10, sum is 54
