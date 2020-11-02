@@ -1,0 +1,10 @@
+2020-11-02 13:15:47,865 - DEBUG - Start of program
+2020-11-02 13:16:33,220 - DEBUG - value of url = https://realpython.com/how-to-implement-python-stack/
+2020-11-02 13:16:33,400 - DEBUG - Starting new HTTPS connection (1): realpython.com:443
+2020-11-02 13:16:37,311 - DEBUG - https://realpython.com:443 "GET /how-to-implement-python-stack/ HTTP/1.1" 200 None
+2020-11-02 13:16:37,553 - DEBUG - status code: 200
+2020-11-02 13:16:37,554 - DEBUG - contents of the url retrieved from url
+2020-11-02 13:16:37,569 - DEBUG - destination file to be cloned initialised..
+2020-11-02 13:16:37,582 - DEBUG - Cloning...
+2020-11-02 13:16:37,582 - DEBUG - Cloning complete
+2020-11-02 13:16:37,596 - DEBUG - End of the program
