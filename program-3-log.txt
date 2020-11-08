@@ -1,0 +1,10 @@
+2020-11-08 13:41:39,564 - DEBUG - Start of the program
+2020-11-08 13:41:50,538 - DEBUG - User entered name as freddy
+2020-11-08 13:41:50,539 - DEBUG - The secret number is = 6
+2020-11-08 13:41:56,062 - DEBUG - User's guess is = 4
+2020-11-08 13:41:56,063 - DEBUG - 4 is less than secretnumber
+2020-11-08 13:41:58,134 - DEBUG - User's guess is = 9
+2020-11-08 13:41:58,144 - DEBUG - 9 is more than secretnumber
+2020-11-08 13:42:02,085 - DEBUG - User's guess is = 6
+2020-11-08 13:42:02,088 - DEBUG - User took 3 guesses
+2020-11-08 13:42:02,088 - DEBUG - End of program
